@@ -1,6 +1,8 @@
 var number;
 
-function add(a,b){}
+function add(a,b){
+  number = a+b;
+}
 function subtract(a,b){}
 function multiply(a,b){}
 function divide(a,b){}
