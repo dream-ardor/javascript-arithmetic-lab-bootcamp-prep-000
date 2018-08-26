@@ -18,11 +18,17 @@ function divide(a,b){
 }
 
 function inc(n){
-  
+  number=n+1;
+  return number;
 }
 function dec(n){
-  
+number=n-1;
+return number;
 }
 
-function makeInt(n){}
-function preserveDecimal(n){}
+function makeInt(n){
+  
+}
+function preserveDecimal(n){
+  
+}
